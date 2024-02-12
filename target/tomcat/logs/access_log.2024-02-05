@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [05/Feb/2024:09:39:07 +0530] "GET /myfirstproject HTTP/1.1" 302 - http-bio-9090-exec-1 0
+0:0:0:0:0:0:0:1 - - [05/Feb/2024:09:39:07 +0530] "GET /myfirstproject/ HTTP/1.1" 200 52 http-bio-9090-exec-3 623
+0:0:0:0:0:0:0:1 - - [05/Feb/2024:09:39:08 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-4 0
