@@ -12,6 +12,9 @@
 
  }
  %>
- 
+<%
+int even[] =new int[5]
+
+%> 
 </body>
 </html>
