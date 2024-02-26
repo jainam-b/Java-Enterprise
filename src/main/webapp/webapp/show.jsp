@@ -1,18 +1,14 @@
-<html>
-   <head>
-      <title>Using GET Method to Read Form Data</title>
-   </head>
-   
-   <body>
+<%
+  String n1= request.getParameter("f") ;
       
-      <ul>
-         <li><p><b>First Name:</b>
-            <%= request.getParameter("f")%>
-         </p></li>
-         <li><p><b>Last  Name:</b>
-            <%= request.getParameter("l")%>
-         </p></li>
-      </ul>
-   
-   </body>
-</html>
+  String n2= request.getParameter("l"); 
+      
+  int a= Integer.parseInt(n1);
+  int b= Integer.parseInt(n2);
+  out.println("Addition =  " + (a+b));
+%>
+ 
+      
+         
+           
+ 
