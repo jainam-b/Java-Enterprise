@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [25/Apr/2024:22:03:42 +0530] "GET /myfirstproject HTTP/1.1" 302 - http-bio-9090-exec-1 0
+0:0:0:0:0:0:0:1 - - [25/Apr/2024:22:03:43 +0530] "GET /myfirstproject/ HTTP/1.1" 500 2668 http-bio-9090-exec-3 1018
+0:0:0:0:0:0:0:1 - - [25/Apr/2024:22:03:43 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-2 0
+0:0:0:0:0:0:0:1 - - [25/Apr/2024:22:04:07 +0530] "GET /myfirstproject/ HTTP/1.1" 500 2682 http-bio-9090-exec-4 125
+0:0:0:0:0:0:0:1 - - [25/Apr/2024:22:04:09 +0530] "GET /myfirstproject/ HTTP/1.1" 500 2546 http-bio-9090-exec-5 9
+0:0:0:0:0:0:0:1 - - [25/Apr/2024:22:04:42 +0530] "GET /myfirstproject/ HTTP/1.1" 500 2696 http-bio-9090-exec-6 107
+0:0:0:0:0:0:0:1 - - [25/Apr/2024:22:04:46 +0530] "GET /myfirstproject/ HTTP/1.1" 500 2546 http-bio-9090-exec-7 5
+0:0:0:0:0:0:0:1 - - [25/Apr/2024:22:04:59 +0530] "GET /myfirstproject/ HTTP/1.1" 404 981 http-bio-9090-exec-8 17
+0:0:0:0:0:0:0:1 - - [25/Apr/2024:22:05:12 +0530] "GET /myfirstproject/show.jsp HTTP/1.1" 404 997 http-bio-9090-exec-10 3
+0:0:0:0:0:0:0:1 - - [25/Apr/2024:22:05:20 +0530] "GET /myfirstproject/show.jsp HTTP/1.1" 404 997 http-bio-9090-exec-10 0
+0:0:0:0:0:0:0:1 - - [25/Apr/2024:22:05:22 +0530] "GET /myfirstproject/show.jsp HTTP/1.1" 404 997 http-bio-9090-exec-10 3
+0:0:0:0:0:0:0:1 - - [25/Apr/2024:22:05:22 +0530] "GET /myfirstproject/show.jsp HTTP/1.1" 404 997 http-bio-9090-exec-10 2
+0:0:0:0:0:0:0:1 - - [25/Apr/2024:22:05:24 +0530] "GET /myfirstproject/ HTTP/1.1" 500 2670 http-bio-9090-exec-10 129
+0:0:0:0:0:0:0:1 - - [25/Apr/2024:22:05:49 +0530] "GET /myfirstproject/ HTTP/1.1" 500 2804 http-bio-9090-exec-9 302
+0:0:0:0:0:0:0:1 - - [25/Apr/2024:22:05:50 +0530] "GET /myfirstproject/ HTTP/1.1" 500 2804 http-bio-9090-exec-5 14
+0:0:0:0:0:0:0:1 - - [25/Apr/2024:22:06:45 +0530] "GET /myfirstproject/ HTTP/1.1" 200 288 http-bio-9090-exec-6 91

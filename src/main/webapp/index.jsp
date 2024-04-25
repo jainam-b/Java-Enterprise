@@ -1,20 +1,12 @@
 <html>
 <body>
-<!-- <h2  >Hello World!</h2>  -->
- <%out.println("<h1 style='color:cyan'>Arrays</h1>");%>
+  <form action="show.jsp">
 
- <%
- String[] arr ={"HTML","Java","php","Node","Python"};
- int j;
- out.println("<p>The array elements are </p>");
- for(j=0;j<arr.length;j++){
-    out.println(arr[j] + "<br>");
-
- }
- %>
-<%
-int even[] =new int[5]
-
-%> 
+    first Name : <input type="text" name="f" placeholder="Enter first name">
+    <br><br>
+    Last name : <input type="text" name="l" placeholder=" Enter Last name">
+    <br><br>
+    <input type="submit" value="Submit"> 
+</form> 
 </body>
 </html>
