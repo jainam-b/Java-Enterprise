@@ -3,3 +3,10 @@
 0:0:0:0:0:0:0:1 - - [15/May/2024:15:52:15 +0530] "POST /myfirstproject/webapp/outputform.jsp HTTP/1.1" 404 1023 http-bio-9090-exec-3 3
 0:0:0:0:0:0:0:1 - - [15/May/2024:15:53:15 +0530] "GET /myfirstproject/webapp/mainform.jsp HTTP/1.1" 200 409 http-bio-9090-exec-4 231
 0:0:0:0:0:0:0:1 - - [15/May/2024:15:53:22 +0530] "POST /myfirstproject/webapp/outputfrom.jsp HTTP/1.1" 200 241 http-bio-9090-exec-5 243
+0:0:0:0:0:0:0:1 - - [15/May/2024:21:32:44 +0530] "GET /myfirstproject/webapp/evenform.jsp HTTP/1.1" 404 1019 http-bio-9090-exec-1 107
+0:0:0:0:0:0:0:1 - - [15/May/2024:21:32:44 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-3 0
+0:0:0:0:0:0:0:1 - - [15/May/2024:21:32:56 +0530] "GET /myfirstproject/webapp/arrayEVEN.jsp HTTP/1.1" 500 4157 http-bio-9090-exec-4 1402
+0:0:0:0:0:0:0:1 - - [15/May/2024:21:34:10 +0530] "GET /myfirstproject/webapp/arrayEVEN.jsp HTTP/1.1" 500 2754 http-bio-9090-exec-5 193
+0:0:0:0:0:0:0:1 - - [15/May/2024:21:35:12 +0530] "GET /myfirstproject/webapp/arrayEVEN.jsp HTTP/1.1" 500 3581 http-bio-9090-exec-7 139
+0:0:0:0:0:0:0:1 - - [15/May/2024:21:35:28 +0530] "GET /myfirstproject/webapp/arrayEVEN.jsp HTTP/1.1" 500 2736 http-bio-9090-exec-8 236
+0:0:0:0:0:0:0:1 - - [15/May/2024:21:38:53 +0530] "GET /myfirstproject/webapp/arrayEVEN.jsp HTTP/1.1" 200 289 http-bio-9090-exec-10 213

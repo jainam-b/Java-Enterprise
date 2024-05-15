@@ -21,7 +21,7 @@ for(j=0;j<arr.length;j++){
     out.println(arr[j]);
 }
 
-    out.println(arr[1].toUpperCase() +"<br>");
+    out.println(arr[1].toUpperCase() +"<br>"); 
     out.println(arr[0].toLowerCase() +"<br>");
     out.println(arr[0].equals("html") +"<br>");
     out.println(arr[1].equalsIgnoreCase("java") +"<br>");

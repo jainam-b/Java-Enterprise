@@ -6,6 +6,16 @@
     <title>Document</title>
 </head>
 <body>
-    
+   <%
+   int[] arr = {1, 2, 3, 4, 5};
+
+   for (int num : arr) {
+       if (num % 2 == 0) {
+           out.println(num + " is even<br>");
+       } else {
+           out.println(num + " is odd<br>");
+       }
+   }
+   %> 
 </body>
 </html>
